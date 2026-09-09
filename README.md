@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
