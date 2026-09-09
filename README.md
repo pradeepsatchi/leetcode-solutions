@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
