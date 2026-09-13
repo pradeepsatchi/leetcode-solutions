@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
