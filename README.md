@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
