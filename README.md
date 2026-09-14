@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
