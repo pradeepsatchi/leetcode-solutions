@@ -1,13 +1,15 @@
 void reverseString(char* s, int sSize) {
-int x=sSize-1;
-for(int i=0;i<sSize/2;i++){
-    int temp=s[x];
-    s[x]=s[i];
-    s[i]=temp;
-    x--;
+int right=sSize-1;
+int left=0;
+while(left<right){
+    char temp=s[right];
+    s[right]=s[left];
+    s[left]=temp;
+    left++;
+    right--;
 }
 for(int i=0;i<sSize;i++){
-    printf("%d",s[i]);
+    printf("%c",s[i]);
 }
   
 }
