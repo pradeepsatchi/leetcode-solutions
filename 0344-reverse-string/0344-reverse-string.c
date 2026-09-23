@@ -8,8 +8,6 @@ while(left<right){
     left++;
     right--;
 }
-for(int i=0;i<sSize;i++){
-    printf("%c",s[i]);
-}
+
   
 }
