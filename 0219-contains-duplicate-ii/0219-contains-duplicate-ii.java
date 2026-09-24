@@ -3,7 +3,7 @@ class Solution {
     HashMap<Integer, Integer> s = new HashMap<>();
     for(int i=0;i<nums.length;i++){
         if(s.containsKey(nums[i])){
-            if(Math.abs(s.get(nums[i])-i)<=k){
+            if(i-s.get(nums[i])<=k){
                 return true;
             }
         }
