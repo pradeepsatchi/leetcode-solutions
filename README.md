@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
