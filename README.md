@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
