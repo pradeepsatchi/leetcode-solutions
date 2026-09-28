@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
