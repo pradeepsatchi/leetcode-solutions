@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Geometry
 |  |
