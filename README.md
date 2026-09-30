@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
