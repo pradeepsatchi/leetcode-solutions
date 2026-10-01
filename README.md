@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
