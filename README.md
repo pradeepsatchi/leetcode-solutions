@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
