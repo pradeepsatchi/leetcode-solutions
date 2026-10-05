@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
