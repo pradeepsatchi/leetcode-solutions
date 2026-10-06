@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0454-4sum-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
