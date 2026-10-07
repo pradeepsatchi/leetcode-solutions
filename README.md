@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1051-height-checker](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1051-height-checker) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pradeepsatchi/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
